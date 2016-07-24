@@ -1,0 +1,12 @@
+Use node.js because -
+1.Node.js uses an event loop.
+2.Node.js is single-threaded and uses only a single CPU core.
+3.Node.js is easily employed as a server-side proxy where it can handle a large amount of simultaneous connections in a non-blocking manner.
+4.npm is the Node.js package manager
+
+websites using node.js
+E-bay
+Walmart
+Microsoft
+LinkedIn
+Yahoo
